@@ -331,7 +331,7 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque GitHub Classroom lo requiere para la corrección automática
 
 ```
-RESPUESTA_P1=
+RESPUESTA_P1=b
 ```
 =======
 ```
@@ -472,7 +472,7 @@ c) Hacer un rebase interactivo para reescribir el historial antes de responder a
 d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 
 ```
-RESPUESTA_P2=
+RESPUESTA_P2=b
 ```
 =======
 ```
@@ -568,7 +568,7 @@ c) Porque `git reset --hard` modifica el historial local, generando conflictos p
 d) Porque GitHub bloquea automáticamente los push después de un `git reset --hard`
 
 ```
-RESPUESTA_P3=
+RESPUESTA_P3=c
 ```
 =======
 **P1** — ¿Por qué `git revert` es preferible a `git reset --hard` cuando ya hiciste push de los cambios?
@@ -715,7 +715,7 @@ c) `(n & 1) == 0` no funciona con números negativos en ningún compilador C est
 d) No hay ninguna diferencia; el compilador genera exactamente el mismo código para ambas
 
 ```
-RESPUESTA_P4=
+RESPUESTA_P4=b
 ```
 =======
 **P2** — Describí con tus palabras qué diferencia hay entre las dos implementaciones de `esPar` que conflictuaban. ¿En qué caso podría importar elegir una sobre la otra?
@@ -744,7 +744,7 @@ c) Si hay que revertir un cambio puntual es imposible sin deshacer todo lo del d
 d) Git rechaza commits que modifiquen demasiados archivos al mismo tiempo
 
 ```
-RESPUESTA_P5=
+RESPUESTA_P5=c
 ```
 
 ---
@@ -760,7 +760,7 @@ c) `git fetch` solo descarga la branch actual; `git pull` descarga todas las bra
 d) `git pull` siempre pide confirmación antes de modificar archivos locales; `git fetch` no
 
 ```
-RESPUESTA_P6=
+RESPUESTA_P6=b
 ```
 
 ---
@@ -776,7 +776,7 @@ c) Qué problema resuelve o qué funcionalidad agrega, cómo se verificó que fu
 d) El tiempo que tardó en implementarse y el nombre del autor
 
 ```
-RESPUESTA_P7=
+RESPUESTA_P7=c
 ```
 =======
 **P3** — Un compañero te dice: "yo hago un solo commit al final del día con todo lo que hice". ¿Qué problemas puede traer esa práctica? ¿Qué le dirías?
